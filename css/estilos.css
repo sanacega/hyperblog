@@ -1,6 +1,28 @@
 body
 {
-    color: deeppink;
+    color: grey;
     text-align: center;
     font-family: 'arial';
+    margin: 0;
+    padding: 0;
 }
+
+#cabecera
+{
+    background: grey;
+    box-shadow: 0px 2px 20px 0px orange(0,0,0,5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline
+{
+    padding: 0.5cm;
+    font-weight: normal;
+    font-size: 0.8em;
+    
+}
+
+#container
