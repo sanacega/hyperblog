@@ -26,3 +26,10 @@ body
 }
 
 #container
+{
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border: lpx solid;
+    margin: 0 auto;
+}
