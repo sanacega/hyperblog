@@ -10,6 +10,10 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+* Creado por el increible Platzi Team
+>>>>>>> readme-mejorado
 * Incluye ejemplo de Windows, Linux y Mac
 =======
 * Creado por el increible Platzi Team
